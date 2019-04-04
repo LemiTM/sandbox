@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+#wrapper {
+			background-color: #555;
+			width:			1500px;
+			margin-left:	auto;
+			margin-right:	auto;  
+			}
+#Header	{
+			background-color: #f46600;
+			width:			1260px;
+			margin-left:	auto;
+			margin-right:	auto;
+			}
+#Main 	{
+			width: 			960px;
+			margin-left:	auto;
+			margin-right:	auto;
+			}
+#RightSideBox	{
+			background-color: #0f06c9;
+			position:		relative;
+			width:			540px;
+			float:			right;
+			margin-left:	10px;
+			margin-right: 	-120px;
+			padding: 		20px;
+			text-align: 	center;
+			}
+#LeftSideBox	{
+			background-color: #0f06c9;
+			width:			540px;
+			float:			left;
+			margin-left:	-120px;
+			margin-right: 	10px;
+			padding: 		20px; 
+			}
+
+
+/* Navigation bar instructions */
+#NavBar {
+			width: 			500px;
+			background-color:  #9C6;
+			margin-left: 	auto;
+			margin-right: 	auto;
+			text-align: 	center;
+			margin-bottom:	-20px;
+			}
+
+a:hover {
+    		color: white; text-decoration: none;
+			}  
+
+/* Some styles we know already are familiar with */
+h1 		{
+			color:			#0f06c9; 
+			text-align:		center; 
+			font-family: 	Georgia;
+			font-size: 		36px;
+			}
+body 	{ 		
+			font-family: "Times New Roman" ;
+			color: #f46600; 
+
+			}
+
+
+.boxedText 	{
+			background-color:#f46600;
+			color: 			#0f06c9;
+			border-style:	double;
+			border-color:	#900;
+			border-width:	medium;
+			font-size:		18px;
+			padding:		10px;
+			}
+.link {
+    		text-decoration: none; font-size:  x-large;
+    		color: #0f06c9;
+			}	
